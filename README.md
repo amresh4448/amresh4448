@@ -42,11 +42,12 @@ I focus on building high-performance, real-world apps used by thousands of users
 - Implemented secure payment systems
 - Built scalable architecture with MVVM
 
-🔗 Play Store:
-- https://play.google.com/store/apps/details?id=com.lawyerdesk.advocase
-- https://play.google.com/store/apps/details?id=com.lawyerdesk.lawbook
-- https://play.google.com/store/apps/details?id=com.education.sarkariyatra
-- https://play.google.com/store/apps/details?id=com.daulat.pocket_equity
+## 🔗 Play Store Apps
+- [AdvocaSe](https://play.google.com/store/apps/details?id=com.lawyerdesk.advocase)  
+- [LawBook](https://play.google.com/store/apps/details?id=com.lawyerdesk.lawbook)  
+- [Sarkari Yatra](https://play.google.com/store/apps/details?id=com.education.sarkariyatra)  
+- [Pocket Equity](https://play.google.com/store/apps/details?id=com.daulat.pocket_equity)
+
 ---
 
 ### 🎥 PrajaLok (AI + Real-Time App)
