@@ -25,7 +25,7 @@ I focus on building high-performance, real-world apps used by thousands of users
 
 ## 💼 Professional Experience
 
-### 🏦 BondBazaar (Fintech App) – Finoux Solutions Pvt. Ltd  
+### 🏦 BB (Fintech App)  
 **Tech:** Flutter, GetX, Clean Architecture, REST API, WebSocket  
 
 - Built real-time bond price tracking using WebSocket
