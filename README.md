@@ -20,7 +20,7 @@
 
 ```dart
 class AmreshKumar extends FlutterDeveloper {
-  final String location    = "Pune, India 📍";
+  final String location    = "India 📍";
   final int    experience  = 5;  // years
   final String focus       = "Scalable • Production-Grade • AI-Powered Apps";
 
